@@ -57,7 +57,7 @@ Backend API: https://task-tracker-wl7l.onrender.com
 Task-Tracker/
 │
 ├── frontend/
-│   ├── src/
+│   └── src/
 │       ├── components/
 │       │   ├── AddTodo
 │       │   └── TodoList
@@ -161,5 +161,3 @@ Create a .env file in the root of your project:
 ## 👨‍💻 Author
 
 **Sarvesh Soni**
-
-GitHub: https://github.com/your-username
