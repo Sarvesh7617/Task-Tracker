@@ -1,5 +1,5 @@
 import { Router } from "express";
-import {createTask, deleteTask, getTask, updateTask} from "../controllers/taskController.js"
+import {createTask, deleteTask, getTask, updateTask} from "../controllers/task.controller.js"
 
 
 
